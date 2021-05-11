@@ -1,0 +1,16 @@
+@media (max-width: 915px) {
+    .block-wraper {
+        width: 48%;
+    }
+    .block-wraper:nth-child(4) {
+        margin-bottom: 56px;
+    }
+}
+@media (max-width: 480px) {
+    .block-wraper {
+        width: 100%;
+    }
+    .block-wraper:nth-child(5) {
+        margin-bottom: 56px;
+    }
+}
